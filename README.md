@@ -9,24 +9,23 @@ Sou Desenvolvedora Front-End apaixonada por tecnologia e inovação, atualmente 
 ### *Linguagens*
 <br>
 <p align="left">
-  <img width="32" alt="JavaScript" src="https://github.com/user-attachments/assets/aaaafaf9-cc62-4f9d-8796-510b9ea2811b" />
-  <img width="32" alt="Python" src="https://github.com/user-attachments/assets/a0b34b9e-146f-4914-a0b2-93becf4357c1" />
-  <img width="32" alt="C++" src="https://github.com/user-attachments/assets/f9826a3d-de9a-4a80-b439-5706fb5677f2" />
+  <img width="64" alt="JavaScript" src="https://github.com/user-attachments/assets/aaaafaf9-cc62-4f9d-8796-510b9ea2811b" />
+  <img width="64" alt="Python" src="https://github.com/user-attachments/assets/a0b34b9e-146f-4914-a0b2-93becf4357c1" />
+  <img width="64" alt="C++" src="https://github.com/user-attachments/assets/f9826a3d-de9a-4a80-b439-5706fb5677f2" />
 </p>
 
 ### *Frameworks & Bibliotecas*
 <br>
 <p align="left">
-  <img width="32" alt="React" src="https://github.com/user-attachments/assets/84d55819-3b55-4fd5-9e89-f6b67f2f5da4" />
+  <img width="64" alt="React" src="https://github.com/user-attachments/assets/84d55819-3b55-4fd5-9e89-f6b67f2f5da4" />
 </p>
 
 ### *Ferramentas & Sistemas*
 <br>
 <p align="left">
-  <img width="32" alt="GitHub" src="https://github.com/user-attachments/assets/9f585ecf-0725-4a62-af37-fb1901a5bb26" />
-  <img width="32" alt="GitLab" src="https://github.com/user-attachments/assets/1c7a223a-b81a-48f8-8ec7-320e055a0500" />
-  <img width="32" alt="Linux" src="https://github.com/user-attachments/assets/c8e781cb-95ce-46a1-ac66-56f8e0ec2c00"/>
-" />
+  <img width="64" alt="GitHub" src="https://github.com/user-attachments/assets/9f585ecf-0725-4a62-af37-fb1901a5bb26" />
+  <img width="64" alt="GitLab" src="https://github.com/user-attachments/assets/1c7a223a-b81a-48f8-8ec7-640e055a0500" />
+  <img width="64" alt="Linux" src="https://github.com/user-attachments/assets/c8e781cb-95ce-46a1-ac66-56f8e0ec2c00"/>
 </p>
 
 ---
