@@ -20,8 +20,6 @@
   <img width="64" alt="Linux" src="https://github.com/user-attachments/assets/c8e781cb-95ce-46a1-ac66-56f8e0ec2c00"/>
 </p>
 
----
-
 <!-- Dicas:
 - Para diminuir/aumentar os ícones, ajuste o `width` (por exemplo 48, 56, 72, 80).
 - Se quiser centralizar, troque align="left" por align="center".
