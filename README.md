@@ -1,5 +1,6 @@
-## Hi there, i'm Julia Ballmann 😊
 <section align="center">
+  
+## Hi there, i'm Julia Ballmann 😊
   
 ### 💻 Sobre mim
 <p>
