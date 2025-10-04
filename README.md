@@ -1,7 +1,6 @@
 ## Hi there, i'm Julia Ballmann 😊
 
 ### 💻 Sobre mim
-<br>
 <p>
   Sou Desenvolvedora Front-End apaixonada por tecnologia e inovação, atualmente cursando Ciência da Computação na UNIVALI (Universidade do Vale do Itajaí). Atualmente estou trabalhando com o desenvolvimento de aplicações web com foco em usabilidade e performance. Além do código, sou engajada em inclusão feminina na tecnologia através do projeto ✨Code Queens – Catarina✨, onde ensino programação para alunas do ensino fundamental.
 </p>
@@ -9,7 +8,6 @@
 ---
 
 ### 🛠️ Tech Stack
-<br>
 <p align="left">
   <img width="64" alt="JavaScript" src="https://github.com/user-attachments/assets/aaaafaf9-cc62-4f9d-8796-510b9ea2811b" />
   <img width="64" alt="Python" src="https://github.com/user-attachments/assets/a0b34b9e-146f-4914-a0b2-93becf4357c1" />
